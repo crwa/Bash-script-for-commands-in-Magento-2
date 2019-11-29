@@ -10,3 +10,4 @@ Every time you make a theme update, install a module, or other modifications tha
 
 To execute the deploy.sh file simply start the command with bash followed by the file name.
 
+$ bash deploy.sh
